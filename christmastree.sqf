@@ -1,7 +1,7 @@
 private ["_tree","_rate","_col"];
 _tree = createVehicle ["CUP_t_picea1s", [1,1,1], [], 0, "NONE"];
 _tree setDir 5;
-_tree setPos [5049.2,12491.5,0.00143433];
+_tree setPos [5049.2,12491.6,0.00143434];
 _rate = 1.5;
 while {true} do {
 {
